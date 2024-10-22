@@ -1,7 +1,7 @@
 [build]
-  base ="/cover_letter_generator"
+  base ="/cover_letter_generator/"
 
 [[redirects]]
-  from = "/*"
+  from = "/cover_letter_generator/*"
   to = "/index.html"
   status = 200
