@@ -1,6 +1,3 @@
-[build]
-  base ="/cover_letter_generator/"
-
 [[redirects]]
   from = "/*"
   to = "/index.html"
