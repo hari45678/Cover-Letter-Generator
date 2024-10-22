@@ -2,6 +2,6 @@
   base ="/cover_letter_generator/"
 
 [[redirects]]
-  from = "/cover_letter_generator/*"
+  from = "/*"
   to = "/index.html"
   status = 200
